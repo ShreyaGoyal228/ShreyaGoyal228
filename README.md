@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning backend technologies.
 - 💞️ I’m open to collaborate and always excited to work on new projects.
 - 📫 You can reach me through:
-   Linkedin:
+   Linkedin:https://www.linkedin.com/in/shreya-goyal-407a0721a/
    Email: goyalshreya228@gmail.com 
 
