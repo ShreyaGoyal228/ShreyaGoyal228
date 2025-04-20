@@ -8,7 +8,7 @@
 
 -📫 How to reach me **goyalshreya228@gmail.com**
 
--📄 Know about my experiences [https://drive.google.com/file/d/12pn4yAUVmzZgtPKrS3-wlESUxZn2CJ-E/view?usp=drive_link)
+-📄 Know about my experiences [https://drive.google.com/file/d/12pn4yAUVmzZgtPKrS3-wlESUxZn2CJ-E/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
