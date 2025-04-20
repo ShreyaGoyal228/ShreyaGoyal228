@@ -4,13 +4,11 @@
 
  -🔭 I’m currently working as Full Stack Developer in Nextfly Technologies Pvt. Ltd.
 
- -🌱 I’m currently learning **App Development**
-
  -👯 I’m looking to collaborate on Web Development Projects
 
 -📫 How to reach me **goyalshreya228@gmail.com**
 
--📄 Know about my experiences [https://drive.google.com/file/d/1NI_VxwC13w3Y3F_Xmefomf46dnOveUxB/view?usp=drive_link](https://drive.google.com/file/d/1NI_VxwC13w3Y3F_Xmefomf46dnOveUxB/view?usp=drive_link)
+-📄 Know about my experiences [https://drive.google.com/file/d/12pn4yAUVmzZgtPKrS3-wlESUxZn2CJ-E/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
